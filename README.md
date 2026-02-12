@@ -1,1 +1,1 @@
-to play in spartacus open file 'a_first_hit.py'
+to play Spartacus open file 'a_first_hit.py'
