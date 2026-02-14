@@ -8,6 +8,12 @@ def gladiatorek1():
     2x p - end turn
     e - end turn
       ''')
+    print('''
+    Gladiators: Tracki wojownik, Kriksos, Sparakus, Alard, Mukatra, Ninos,
+                Filemon, Teron, Duro, Aszur, Gannikus, Kakus, Gnejusz,
+                Syryjski wojownik, Galijski wojownik, Valerius, Oinomaos,
+                Danel, Ingens
+    ''')
     while True:
         my_gladiator_2 = input(f'\n{'🧝  '} Gladiator no. 1: ').lower().strip()
         print()
